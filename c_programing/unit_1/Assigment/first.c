@@ -9,6 +9,7 @@
 
 void main()
 {
-	printf("ashrarf");
+	printf("HI my na is ashraf");
+	printf("i anm just traing to use git ");
 
 }
