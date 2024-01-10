@@ -11,5 +11,7 @@ void main()
 {
 	printf("HI my na is ashraf");
 	printf("i anm just traing to use git ");
-
+	
+	printf("HI my na is ashraf");
+	printf("i anm just traing to use git ");
 }
